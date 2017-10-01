@@ -1,0 +1,3 @@
+example3.txt
+*EOFs*
+1

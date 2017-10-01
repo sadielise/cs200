@@ -1,0 +1,8 @@
+simple3.txt
+example2.txt
+data3.txt
+*EOFs*
+JON
+tiger
+dog
+hippo

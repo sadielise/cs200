@@ -1,0 +1,62 @@
+WORDS
+cat
+china
+clothing
+cruel
+due
+endangered
+enough
+fighting
+for
+growing
+in
+is
+isn't
+its
+jon
+life
+of
+on
+panda
+popularity
+siberian
+skin
+stewart
+the
+tiger
+to
+when
+
+Copies: 60
+Copies: 59
+
+WORDS
+cat
+china
+clothing
+cruel
+due
+endangered
+enough
+fighting
+for
+growing
+in
+is
+isn't
+its
+jon
+life
+of
+on
+panda
+popularity
+siberian
+stewart
+the
+to
+when
+
+JON in pages: input1.txt
+tiger not found
+panda in pages: simple1.txt, input1.txt

@@ -1,0 +1,3 @@
+Hello. This is a text file. It's pretty awesome!
+<this is an html tag>. This text file has a lot of punctuation and repeated words.
+12345567 is a number! Why? <tag@#$%&^*> Who knows?!
